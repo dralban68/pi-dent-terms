@@ -1,0 +1,1658 @@
+[
+  {
+    "id": 0,
+    "ms": 258.311042,
+    "noul": 0.42,
+    "pConcept": 0.17,
+    "version": "jev-1.14.0",
+    "tokens": 623
+  },
+  {
+    "id": 1,
+    "ms": 259.390834,
+    "noul": 0.24,
+    "pConcept": 0.26,
+    "version": "jev-1.14.0",
+    "tokens": 601
+  },
+  {
+    "id": 2,
+    "ms": 253.128917,
+    "noul": 0.16,
+    "pConcept": 0.14,
+    "version": "jev-1.14.0",
+    "tokens": 600
+  },
+  {
+    "id": 3,
+    "ms": 202.745959,
+    "noul": 0.14,
+    "pConcept": 0.25,
+    "version": "jev-1.14.0",
+    "tokens": 638
+  },
+  {
+    "id": 4,
+    "ms": 235.14216699999997,
+    "noul": 0.38,
+    "pConcept": 0.27,
+    "version": "jev-1.14.0",
+    "tokens": 587
+  },
+  {
+    "id": 5,
+    "ms": 183.342125,
+    "noul": 0.24,
+    "pConcept": 0.09,
+    "version": "jev-1.14.0",
+    "tokens": 502
+  },
+  {
+    "id": 6,
+    "ms": 207.724875,
+    "noul": 0.19,
+    "pConcept": 0.12,
+    "version": "jev-1.14.0",
+    "tokens": 640
+  },
+  {
+    "id": 7,
+    "ms": 202.42608399999997,
+    "noul": 0.29,
+    "pConcept": 0.22,
+    "version": "jev-1.14.0",
+    "tokens": 635
+  },
+  {
+    "id": 8,
+    "ms": 174.371042,
+    "noul": 0.42,
+    "pConcept": 0.41,
+    "version": "jev-1.14.0",
+    "tokens": 622
+  },
+  {
+    "id": 9,
+    "ms": 185.700625,
+    "noul": 0.68,
+    "pConcept": 0.48,
+    "version": "jev-1.14.0",
+    "tokens": 568
+  },
+  {
+    "id": 10,
+    "ms": 174.46208299999995,
+    "noul": 0.71,
+    "pConcept": 0.35,
+    "version": "jev-1.14.0",
+    "tokens": 554
+  },
+  {
+    "id": 11,
+    "ms": 185.69858400000004,
+    "noul": 0.2,
+    "pConcept": 0.12,
+    "version": "jev-1.14.0",
+    "tokens": 634
+  },
+  {
+    "id": 12,
+    "ms": 184.41495799999996,
+    "noul": 0.19,
+    "pConcept": 0.1,
+    "version": "jev-1.14.0",
+    "tokens": 635
+  },
+  {
+    "id": 13,
+    "ms": 156.38737500000002,
+    "noul": 0.83,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 457
+  },
+  {
+    "id": 14,
+    "ms": 214.82970900000004,
+    "noul": 0.79,
+    "pConcept": 0.73,
+    "version": "jev-1.14.0",
+    "tokens": 566
+  },
+  {
+    "id": 15,
+    "ms": 167.01120799999995,
+    "noul": 0.58,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 570
+  },
+  {
+    "id": 16,
+    "ms": 168.92895799999997,
+    "noul": 0.78,
+    "pConcept": 0.61,
+    "version": "jev-1.14.0",
+    "tokens": 635
+  },
+  {
+    "id": 17,
+    "ms": 168.79312499999992,
+    "noul": 0.73,
+    "pConcept": 0.69,
+    "version": "jev-1.14.0",
+    "tokens": 567
+  },
+  {
+    "id": 18,
+    "ms": 209.04758400000003,
+    "noul": 0.9,
+    "pConcept": 0.82,
+    "version": "jev-1.14.0",
+    "tokens": 582
+  },
+  {
+    "id": 19,
+    "ms": 167.85533399999997,
+    "noul": 0.44,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 646
+  },
+  {
+    "id": 20,
+    "ms": 174.04141700000002,
+    "noul": 0.8,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 617
+  },
+  {
+    "id": 21,
+    "ms": 167.35066699999993,
+    "noul": 0.27,
+    "pConcept": 0.15,
+    "version": "jev-1.14.0",
+    "tokens": 615
+  },
+  {
+    "id": 22,
+    "ms": 184.09608400000002,
+    "noul": 0.8,
+    "pConcept": 0.62,
+    "version": "jev-1.14.0",
+    "tokens": 546
+  },
+  {
+    "id": 23,
+    "ms": 177.28283299999998,
+    "noul": 0.87,
+    "pConcept": 0.74,
+    "version": "jev-1.14.0",
+    "tokens": 536
+  },
+  {
+    "id": 24,
+    "ms": 146.11391700000001,
+    "noul": 0.81,
+    "pConcept": 0.7,
+    "version": "jev-1.14.0",
+    "tokens": 555
+  },
+  {
+    "id": 25,
+    "ms": 170.47466700000007,
+    "noul": 0.86,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 499
+  },
+  {
+    "id": 26,
+    "ms": 181.95612499999993,
+    "noul": 0.79,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 534
+  },
+  {
+    "id": 27,
+    "ms": 181.27804200000003,
+    "noul": 0.66,
+    "pConcept": 0.72,
+    "version": "jev-1.14.0",
+    "tokens": 483
+  },
+  {
+    "id": 28,
+    "ms": 149.76929199999995,
+    "noul": 0.83,
+    "pConcept": 0.8,
+    "version": "jev-1.14.0",
+    "tokens": 600
+  },
+  {
+    "id": 29,
+    "ms": 180.22233300000005,
+    "noul": 0.62,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 626
+  },
+  {
+    "id": 30,
+    "ms": 165.804625,
+    "noul": 0.53,
+    "pConcept": 0.5,
+    "version": "jev-1.14.0",
+    "tokens": 453
+  },
+  {
+    "id": 31,
+    "ms": 158.74579200000005,
+    "noul": 0.77,
+    "pConcept": 0.77,
+    "version": "jev-1.14.0",
+    "tokens": 572
+  },
+  {
+    "id": 32,
+    "ms": 219.9993750000001,
+    "noul": 0.76,
+    "pConcept": 0.69,
+    "version": "jev-1.14.0",
+    "tokens": 624
+  },
+  {
+    "id": 33,
+    "ms": 163.2521250000001,
+    "noul": 0.46,
+    "pConcept": 0.31,
+    "version": "jev-1.14.0",
+    "tokens": 525
+  },
+  {
+    "id": 34,
+    "ms": 163.78883399999995,
+    "noul": 0.62,
+    "pConcept": 0.68,
+    "version": "jev-1.14.0",
+    "tokens": 566
+  },
+  {
+    "id": 35,
+    "ms": 163.2797079999999,
+    "noul": 0.69,
+    "pConcept": 0.62,
+    "version": "jev-1.14.0",
+    "tokens": 586
+  },
+  {
+    "id": 36,
+    "ms": 147.34100000000012,
+    "noul": 0.64,
+    "pConcept": 0.44,
+    "version": "jev-1.14.0",
+    "tokens": 633
+  },
+  {
+    "id": 37,
+    "ms": 179.59062499999993,
+    "noul": 0.71,
+    "pConcept": 0.6,
+    "version": "jev-1.14.0",
+    "tokens": 625
+  },
+  {
+    "id": 38,
+    "ms": 178.0425419999999,
+    "noul": 0.46,
+    "pConcept": 0.4,
+    "version": "jev-1.14.0",
+    "tokens": 513
+  },
+  {
+    "id": 39,
+    "ms": 185.3692920000001,
+    "noul": 0.33,
+    "pConcept": 0.38,
+    "version": "jev-1.14.0",
+    "tokens": 553
+  },
+  {
+    "id": 40,
+    "ms": 158.3469580000001,
+    "noul": 0.58,
+    "pConcept": 0.58,
+    "version": "jev-1.14.0",
+    "tokens": 611
+  },
+  {
+    "id": 41,
+    "ms": 158.1070830000001,
+    "noul": 0.81,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 571
+  },
+  {
+    "id": 42,
+    "ms": 149.188541,
+    "noul": 0.78,
+    "pConcept": 0.85,
+    "version": "jev-1.14.0",
+    "tokens": 537
+  },
+  {
+    "id": 43,
+    "ms": 158.09512500000005,
+    "noul": 0.69,
+    "pConcept": 0.79,
+    "version": "jev-1.14.0",
+    "tokens": 618
+  },
+  {
+    "id": 44,
+    "ms": 150.60808399999996,
+    "noul": 0.64,
+    "pConcept": 0.76,
+    "version": "jev-1.14.0",
+    "tokens": 577
+  },
+  {
+    "id": 45,
+    "ms": 141.56554200000005,
+    "noul": 0.69,
+    "pConcept": 0.79,
+    "version": "jev-1.14.0",
+    "tokens": 592
+  },
+  {
+    "id": 46,
+    "ms": 140.37562500000013,
+    "noul": 0.52,
+    "pConcept": 0.67,
+    "version": "jev-1.14.0",
+    "tokens": 578
+  },
+  {
+    "id": 47,
+    "ms": 164.909625,
+    "noul": 0.79,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 578
+  },
+  {
+    "id": 48,
+    "ms": 149.54837500000008,
+    "noul": 0.86,
+    "pConcept": 0.86,
+    "version": "jev-1.14.0",
+    "tokens": 611
+  },
+  {
+    "id": 49,
+    "ms": 151.35691700000007,
+    "noul": 0.78,
+    "pConcept": 0.78,
+    "version": "jev-1.14.0",
+    "tokens": 594
+  },
+  {
+    "id": 50,
+    "ms": 158.40629200000012,
+    "noul": 0.47,
+    "pConcept": 0.67,
+    "version": "jev-1.14.0",
+    "tokens": 645
+  },
+  {
+    "id": 51,
+    "ms": 150.97620800000004,
+    "noul": 0.8,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 559
+  },
+  {
+    "id": 52,
+    "ms": 174.505625,
+    "noul": 0.7,
+    "pConcept": 0.61,
+    "version": "jev-1.14.0",
+    "tokens": 589
+  },
+  {
+    "id": 53,
+    "ms": 177.7935,
+    "noul": 0.24,
+    "pConcept": 0.14,
+    "version": "jev-1.14.0",
+    "tokens": 519
+  },
+  {
+    "id": 54,
+    "ms": 171.0525,
+    "noul": 0.9,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 567
+  },
+  {
+    "id": 55,
+    "ms": 161.18987500000003,
+    "noul": 0.64,
+    "pConcept": 0.86,
+    "version": "jev-1.14.0",
+    "tokens": 505
+  },
+  {
+    "id": 56,
+    "ms": 181.07487500000002,
+    "noul": 0.68,
+    "pConcept": 0.61,
+    "version": "jev-1.14.0",
+    "tokens": 462
+  },
+  {
+    "id": 57,
+    "ms": 153.9133750000001,
+    "noul": 0.59,
+    "pConcept": 0.6,
+    "version": "jev-1.14.0",
+    "tokens": 628
+  },
+  {
+    "id": 58,
+    "ms": 141.3488749999999,
+    "noul": 0.65,
+    "pConcept": 0.53,
+    "version": "jev-1.14.0",
+    "tokens": 541
+  },
+  {
+    "id": 59,
+    "ms": 139.93387499999994,
+    "noul": 0.72,
+    "pConcept": 0.72,
+    "version": "jev-1.14.0",
+    "tokens": 580
+  },
+  {
+    "id": 60,
+    "ms": 235.94724999999994,
+    "noul": 0.69,
+    "pConcept": 0.61,
+    "version": "jev-1.14.0",
+    "tokens": 551
+  },
+  {
+    "id": 61,
+    "ms": 188.07875000000013,
+    "noul": 0.76,
+    "pConcept": 0.68,
+    "version": "jev-1.14.0",
+    "tokens": 533
+  },
+  {
+    "id": 62,
+    "ms": 181.17679199999998,
+    "noul": 0.56,
+    "pConcept": 0.46,
+    "version": "jev-1.14.0",
+    "tokens": 649
+  },
+  {
+    "id": 63,
+    "ms": 151.15329199999996,
+    "noul": 0.49,
+    "pConcept": 0.52,
+    "version": "jev-1.14.0",
+    "tokens": 647
+  },
+  {
+    "id": 64,
+    "ms": 159.8341660000001,
+    "noul": 0.74,
+    "pConcept": 0.85,
+    "version": "jev-1.14.0",
+    "tokens": 574
+  },
+  {
+    "id": 65,
+    "ms": 175.39300000000003,
+    "noul": 0.8,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 536
+  },
+  {
+    "id": 66,
+    "ms": 144.6494580000001,
+    "noul": 0.73,
+    "pConcept": 0.69,
+    "version": "jev-1.14.0",
+    "tokens": 629
+  },
+  {
+    "id": 67,
+    "ms": 159.77375000000006,
+    "noul": 0.53,
+    "pConcept": 0.31,
+    "version": "jev-1.14.0",
+    "tokens": 636
+  },
+  {
+    "id": 68,
+    "ms": 159.81895800000007,
+    "noul": 0.34,
+    "pConcept": 0.28,
+    "version": "jev-1.14.0",
+    "tokens": 653
+  },
+  {
+    "id": 69,
+    "ms": 208.18620799999985,
+    "noul": 0.61,
+    "pConcept": 0.54,
+    "version": "jev-1.14.0",
+    "tokens": 584
+  },
+  {
+    "id": 70,
+    "ms": 144.83937500000002,
+    "noul": 0.71,
+    "pConcept": 0.55,
+    "version": "jev-1.14.0",
+    "tokens": 549
+  },
+  {
+    "id": 71,
+    "ms": 156.22533299999986,
+    "noul": 0.61,
+    "pConcept": 0.46,
+    "version": "jev-1.14.0",
+    "tokens": 656
+  },
+  {
+    "id": 72,
+    "ms": 138.0897500000001,
+    "noul": 0.68,
+    "pConcept": 0.6,
+    "version": "jev-1.14.0",
+    "tokens": 636
+  },
+  {
+    "id": 73,
+    "ms": 138.15520800000013,
+    "noul": 0.73,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 601
+  },
+  {
+    "id": 74,
+    "ms": 158.4613750000001,
+    "noul": 0.61,
+    "pConcept": 0.68,
+    "version": "jev-1.14.0",
+    "tokens": 453
+  },
+  {
+    "id": 75,
+    "ms": 190.606583,
+    "noul": 0.63,
+    "pConcept": 0.6,
+    "version": "jev-1.14.0",
+    "tokens": 515
+  },
+  {
+    "id": 76,
+    "ms": 154.59945900000002,
+    "noul": 0.62,
+    "pConcept": 0.42,
+    "version": "jev-1.14.0",
+    "tokens": 641
+  },
+  {
+    "id": 77,
+    "ms": 154.4938749999999,
+    "noul": 0.91,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 593
+  },
+  {
+    "id": 78,
+    "ms": 144.70395899999994,
+    "noul": 0.32,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 661
+  },
+  {
+    "id": 79,
+    "ms": 187.22995800000012,
+    "noul": 0.73,
+    "pConcept": 0.57,
+    "version": "jev-1.14.0",
+    "tokens": 650
+  },
+  {
+    "id": 80,
+    "ms": 159.93887500000005,
+    "noul": 0.73,
+    "pConcept": 0.7,
+    "version": "jev-1.14.0",
+    "tokens": 647
+  },
+  {
+    "id": 81,
+    "ms": 190.8031249999999,
+    "noul": 0.64,
+    "pConcept": 0.56,
+    "version": "jev-1.14.0",
+    "tokens": 563
+  },
+  {
+    "id": 82,
+    "ms": 202.1440829999999,
+    "noul": 0.5,
+    "pConcept": 0.42,
+    "version": "jev-1.14.0",
+    "tokens": 633
+  },
+  {
+    "id": 83,
+    "ms": 162.09745799999973,
+    "noul": 0.55,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 554
+  },
+  {
+    "id": 84,
+    "ms": 174.04937500000005,
+    "noul": 0.75,
+    "pConcept": 0.81,
+    "version": "jev-1.14.0",
+    "tokens": 570
+  },
+  {
+    "id": 85,
+    "ms": 164.8275000000001,
+    "noul": 0.82,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 626
+  },
+  {
+    "id": 86,
+    "ms": 152.88916700000004,
+    "noul": 0.7,
+    "pConcept": 0.74,
+    "version": "jev-1.14.0",
+    "tokens": 557
+  },
+  {
+    "id": 87,
+    "ms": 166.70016699999996,
+    "noul": 0.84,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 572
+  },
+  {
+    "id": 88,
+    "ms": 140.30016599999976,
+    "noul": 0.88,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 504
+  },
+  {
+    "id": 89,
+    "ms": 185.36799999999994,
+    "noul": 0.62,
+    "pConcept": 0.79,
+    "version": "jev-1.14.0",
+    "tokens": 525
+  },
+  {
+    "id": 90,
+    "ms": 148.48854200000005,
+    "noul": 0.4,
+    "pConcept": 0.64,
+    "version": "jev-1.14.0",
+    "tokens": 659
+  },
+  {
+    "id": 91,
+    "ms": 153.07974999999988,
+    "noul": 0.85,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 523
+  },
+  {
+    "id": 92,
+    "ms": 156.8050420000004,
+    "noul": 0.67,
+    "pConcept": 0.63,
+    "version": "jev-1.14.0",
+    "tokens": 608
+  },
+  {
+    "id": 93,
+    "ms": 202.43820899999992,
+    "noul": 0.79,
+    "pConcept": 0.79,
+    "version": "jev-1.14.0",
+    "tokens": 527
+  },
+  {
+    "id": 94,
+    "ms": 148.9499169999999,
+    "noul": 0.83,
+    "pConcept": 0.78,
+    "version": "jev-1.14.0",
+    "tokens": 507
+  },
+  {
+    "id": 95,
+    "ms": 176.9890419999997,
+    "noul": 0.79,
+    "pConcept": 0.89,
+    "version": "jev-1.14.0",
+    "tokens": 572
+  },
+  {
+    "id": 96,
+    "ms": 138.05854200000022,
+    "noul": 0.83,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 662
+  },
+  {
+    "id": 97,
+    "ms": 156.71904200000017,
+    "noul": 0.93,
+    "pConcept": 0.98,
+    "version": "jev-1.14.0",
+    "tokens": 669
+  },
+  {
+    "id": 98,
+    "ms": 157.40483399999994,
+    "noul": 0.78,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 548
+  },
+  {
+    "id": 99,
+    "ms": 173.3438329999999,
+    "noul": 0.86,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 636
+  },
+  {
+    "id": 100,
+    "ms": 151.25116700000035,
+    "noul": 0.83,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 568
+  },
+  {
+    "id": 101,
+    "ms": 152.07716699999992,
+    "noul": 0.7,
+    "pConcept": 0.74,
+    "version": "jev-1.14.0",
+    "tokens": 634
+  },
+  {
+    "id": 102,
+    "ms": 155.60204199999998,
+    "noul": 0.83,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 635
+  },
+  {
+    "id": 103,
+    "ms": 151.02420799999982,
+    "noul": 0.89,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 517
+  },
+  {
+    "id": 104,
+    "ms": 148.5179159999998,
+    "noul": 0.8,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 668
+  },
+  {
+    "id": 105,
+    "ms": 189.70962499999996,
+    "noul": 0.86,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 652
+  },
+  {
+    "id": 106,
+    "ms": 189.94491599999992,
+    "noul": 0.85,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 638
+  },
+  {
+    "id": 107,
+    "ms": 163.56662499999993,
+    "noul": 0.77,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 624
+  },
+  {
+    "id": 108,
+    "ms": 149.46558300000015,
+    "noul": 0.7,
+    "pConcept": 0.44,
+    "version": "jev-1.14.0",
+    "tokens": 502
+  },
+  {
+    "id": 109,
+    "ms": 143.90187500000002,
+    "noul": 0.91,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 594
+  },
+  {
+    "id": 110,
+    "ms": 164.5425839999998,
+    "noul": 0.9,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 544
+  },
+  {
+    "id": 111,
+    "ms": 149.28529200000003,
+    "noul": 0.76,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 606
+  },
+  {
+    "id": 112,
+    "ms": 162.93337500000007,
+    "noul": 0.91,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 511
+  },
+  {
+    "id": 113,
+    "ms": 173.05995799999982,
+    "noul": 0.83,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 624
+  },
+  {
+    "id": 114,
+    "ms": 166.17016700000022,
+    "noul": 0.93,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 592
+  },
+  {
+    "id": 115,
+    "ms": 142.33283299999994,
+    "noul": 0.89,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 666
+  },
+  {
+    "id": 116,
+    "ms": 158.71133400000008,
+    "noul": 0.9,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 455
+  },
+  {
+    "id": 117,
+    "ms": 189.81158399999958,
+    "noul": 0.85,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 623
+  },
+  {
+    "id": 118,
+    "ms": 149.39929200000006,
+    "noul": 0.82,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 620
+  },
+  {
+    "id": 119,
+    "ms": 148.85037499999999,
+    "noul": 0.82,
+    "pConcept": 0.82,
+    "version": "jev-1.14.0",
+    "tokens": 485
+  },
+  {
+    "id": 120,
+    "ms": 168.86879199999976,
+    "noul": 0.76,
+    "pConcept": 0.82,
+    "version": "jev-1.14.0",
+    "tokens": 489
+  },
+  {
+    "id": 121,
+    "ms": 176.35500000000002,
+    "noul": 0.87,
+    "pConcept": 0.89,
+    "version": "jev-1.14.0",
+    "tokens": 622
+  },
+  {
+    "id": 122,
+    "ms": 182.15470800000003,
+    "noul": 0.83,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 620
+  },
+  {
+    "id": 123,
+    "ms": 212.22350000000006,
+    "noul": 0.8,
+    "pConcept": 0.66,
+    "version": "jev-1.14.0",
+    "tokens": 607
+  },
+  {
+    "id": 124,
+    "ms": 168.76145799999995,
+    "noul": 0.86,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 565
+  },
+  {
+    "id": 125,
+    "ms": 166.45624999999973,
+    "noul": 0.89,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 560
+  },
+  {
+    "id": 126,
+    "ms": 181.4548749999999,
+    "noul": 0.93,
+    "pConcept": 0.99,
+    "version": "jev-1.14.0",
+    "tokens": 509
+  },
+  {
+    "id": 127,
+    "ms": 167.80049999999983,
+    "noul": 0.85,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 555
+  },
+  {
+    "id": 128,
+    "ms": 160.90112499999987,
+    "noul": 0.78,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 561
+  },
+  {
+    "id": 129,
+    "ms": 157.67450000000008,
+    "noul": 0.48,
+    "pConcept": 0.45,
+    "version": "jev-1.14.0",
+    "tokens": 599
+  },
+  {
+    "id": 130,
+    "ms": 165.05645800000002,
+    "noul": 0.88,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 543
+  },
+  {
+    "id": 131,
+    "ms": 182.90087500000027,
+    "noul": 0.92,
+    "pConcept": 0.97,
+    "version": "jev-1.14.0",
+    "tokens": 479
+  },
+  {
+    "id": 132,
+    "ms": 166.88170900000023,
+    "noul": 0.78,
+    "pConcept": 0.91,
+    "version": "jev-1.14.0",
+    "tokens": 480
+  },
+  {
+    "id": 133,
+    "ms": 212.33333399999992,
+    "noul": 0.9,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 531
+  },
+  {
+    "id": 134,
+    "ms": 198.19758299999967,
+    "noul": 0.81,
+    "pConcept": 0.72,
+    "version": "jev-1.14.0",
+    "tokens": 445
+  },
+  {
+    "id": 135,
+    "ms": 166.1604169999996,
+    "noul": 0.87,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 631
+  },
+  {
+    "id": 136,
+    "ms": 198.0677499999997,
+    "noul": 0.93,
+    "pConcept": 0.98,
+    "version": "jev-1.14.0",
+    "tokens": 527
+  },
+  {
+    "id": 137,
+    "ms": 184.43412499999977,
+    "noul": 0.72,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 693
+  },
+  {
+    "id": 138,
+    "ms": 154.90212500000007,
+    "noul": 0.81,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 485
+  },
+  {
+    "id": 139,
+    "ms": 153.74304099999972,
+    "noul": 0.77,
+    "pConcept": 0.86,
+    "version": "jev-1.14.0",
+    "tokens": 663
+  },
+  {
+    "id": 140,
+    "ms": 168.9989999999998,
+    "noul": 0.86,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 528
+  },
+  {
+    "id": 141,
+    "ms": 178.24029199999995,
+    "noul": 0.81,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 667
+  },
+  {
+    "id": 142,
+    "ms": 185.12766699999975,
+    "noul": 0.68,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 657
+  },
+  {
+    "id": 143,
+    "ms": 154.46066699999983,
+    "noul": 0.83,
+    "pConcept": 0.8,
+    "version": "jev-1.14.0",
+    "tokens": 537
+  },
+  {
+    "id": 144,
+    "ms": 183.00995899999998,
+    "noul": 0.84,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 613
+  },
+  {
+    "id": 145,
+    "ms": 167.63704099999995,
+    "noul": 0.84,
+    "pConcept": 0.91,
+    "version": "jev-1.14.0",
+    "tokens": 543
+  },
+  {
+    "id": 146,
+    "ms": 214.36324999999988,
+    "noul": 0.8,
+    "pConcept": 0.79,
+    "version": "jev-1.14.0",
+    "tokens": 612
+  },
+  {
+    "id": 147,
+    "ms": 143.891208,
+    "noul": 0.83,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 612
+  },
+  {
+    "id": 148,
+    "ms": 153.21987500000023,
+    "noul": 0.78,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 459
+  },
+  {
+    "id": 149,
+    "ms": 197.5274999999997,
+    "noul": 0.84,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 614
+  },
+  {
+    "id": 150,
+    "ms": 190.21087500000021,
+    "noul": 0.86,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 533
+  },
+  {
+    "id": 151,
+    "ms": 173.1901670000002,
+    "noul": 0.81,
+    "pConcept": 0.85,
+    "version": "jev-1.14.0",
+    "tokens": 608
+  },
+  {
+    "id": 152,
+    "ms": 176.59629099999984,
+    "noul": 0.62,
+    "pConcept": 0.78,
+    "version": "jev-1.14.0",
+    "tokens": 638
+  },
+  {
+    "id": 153,
+    "ms": 171.62324999999964,
+    "noul": 0.7,
+    "pConcept": 0.77,
+    "version": "jev-1.14.0",
+    "tokens": 641
+  },
+  {
+    "id": 154,
+    "ms": 161.83087499999965,
+    "noul": 0.81,
+    "pConcept": 0.8,
+    "version": "jev-1.14.0",
+    "tokens": 607
+  },
+  {
+    "id": 155,
+    "ms": 204.61175000000003,
+    "noul": 0.73,
+    "pConcept": 0.82,
+    "version": "jev-1.14.0",
+    "tokens": 541
+  },
+  {
+    "id": 156,
+    "ms": 171.51675000000023,
+    "noul": 0.29,
+    "pConcept": 0.23,
+    "version": "jev-1.14.0",
+    "tokens": 572
+  },
+  {
+    "id": 157,
+    "ms": 212.3663330000004,
+    "noul": 0.7,
+    "pConcept": 0.83,
+    "version": "jev-1.14.0",
+    "tokens": 498
+  },
+  {
+    "id": 158,
+    "ms": 135.5362500000001,
+    "noul": 0.87,
+    "pConcept": 0.92,
+    "version": "jev-1.14.0",
+    "tokens": 550
+  },
+  {
+    "id": 159,
+    "ms": 158.2789170000001,
+    "noul": 0.65,
+    "pConcept": 0.9,
+    "version": "jev-1.14.0",
+    "tokens": 638
+  },
+  {
+    "id": 160,
+    "ms": 172.77495799999997,
+    "noul": 0.34,
+    "pConcept": 0.34,
+    "version": "jev-1.14.0",
+    "tokens": 612
+  },
+  {
+    "id": 161,
+    "ms": 168.4516249999997,
+    "noul": 0.86,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 605
+  },
+  {
+    "id": 162,
+    "ms": 173.39291700000012,
+    "noul": 0.8,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 555
+  },
+  {
+    "id": 163,
+    "ms": 168.81445799999983,
+    "noul": 0.85,
+    "pConcept": 0.94,
+    "version": "jev-1.14.0",
+    "tokens": 479
+  },
+  {
+    "id": 164,
+    "ms": 151.8325829999999,
+    "noul": 0.89,
+    "pConcept": 0.96,
+    "version": "jev-1.14.0",
+    "tokens": 552
+  },
+  {
+    "id": 165,
+    "ms": 151.02250000000004,
+    "noul": 0.8,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 553
+  },
+  {
+    "id": 166,
+    "ms": 168.5696250000001,
+    "noul": 0.79,
+    "pConcept": 0.69,
+    "version": "jev-1.14.0",
+    "tokens": 615
+  },
+  {
+    "id": 167,
+    "ms": 160.71537499999977,
+    "noul": 0.82,
+    "pConcept": 0.87,
+    "version": "jev-1.14.0",
+    "tokens": 551
+  },
+  {
+    "id": 168,
+    "ms": 146.98675000000003,
+    "noul": 0.66,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 565
+  },
+  {
+    "id": 169,
+    "ms": 149.36812499999996,
+    "noul": 0.85,
+    "pConcept": 0.93,
+    "version": "jev-1.14.0",
+    "tokens": 570
+  },
+  {
+    "id": 170,
+    "ms": 151.74545899999976,
+    "noul": 0.8,
+    "pConcept": 0.83,
+    "version": "jev-1.14.0",
+    "tokens": 659
+  },
+  {
+    "id": 171,
+    "ms": 147.75941599999987,
+    "noul": 0.7,
+    "pConcept": 0.67,
+    "version": "jev-1.14.0",
+    "tokens": 624
+  },
+  {
+    "id": 172,
+    "ms": 154.94966699999986,
+    "noul": 0.78,
+    "pConcept": 0.57,
+    "version": "jev-1.14.0",
+    "tokens": 628
+  },
+  {
+    "id": 173,
+    "ms": 180.5478750000002,
+    "noul": 0.82,
+    "pConcept": 0.88,
+    "version": "jev-1.14.0",
+    "tokens": 473
+  },
+  {
+    "id": 174,
+    "ms": 162.68354199999976,
+    "noul": 0.65,
+    "pConcept": 0.69,
+    "version": "jev-1.14.0",
+    "tokens": 526
+  },
+  {
+    "id": 175,
+    "ms": 175.87245799999982,
+    "noul": 0.55,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 587
+  },
+  {
+    "id": 176,
+    "ms": 175.40062500000022,
+    "noul": 0.75,
+    "pConcept": 0.84,
+    "version": "jev-1.14.0",
+    "tokens": 453
+  },
+  {
+    "id": 177,
+    "ms": 146.2264580000001,
+    "noul": 0.67,
+    "pConcept": 0.75,
+    "version": "jev-1.14.0",
+    "tokens": 575
+  },
+  {
+    "id": 178,
+    "ms": 162.7370420000002,
+    "noul": 0.69,
+    "pConcept": 0.81,
+    "version": "jev-1.14.0",
+    "tokens": 525
+  },
+  {
+    "id": 179,
+    "ms": 144.70641699999987,
+    "noul": 0.73,
+    "pConcept": 0.7,
+    "version": "jev-1.14.0",
+    "tokens": 451
+  },
+  {
+    "id": 180,
+    "ms": 156.8737500000002,
+    "noul": 0.77,
+    "pConcept": 0.58,
+    "version": "jev-1.14.0",
+    "tokens": 513
+  },
+  {
+    "id": 181,
+    "ms": 137.68083300000035,
+    "noul": 0.7,
+    "pConcept": 0.67,
+    "version": "jev-1.14.0",
+    "tokens": 675
+  },
+  {
+    "id": 182,
+    "ms": 151.84358299999985,
+    "noul": 0.74,
+    "pConcept": 0.73,
+    "version": "jev-1.14.0",
+    "tokens": 644
+  },
+  {
+    "id": 183,
+    "ms": 156.2637090000003,
+    "noul": 0.83,
+    "pConcept": 0.77,
+    "version": "jev-1.14.0",
+    "tokens": 651
+  },
+  {
+    "id": 184,
+    "ms": 161.38066700000036,
+    "noul": 0.66,
+    "pConcept": 0.46,
+    "version": "jev-1.14.0",
+    "tokens": 451
+  },
+  {
+    "id": 185,
+    "ms": 173.18441699999948,
+    "noul": 0.73,
+    "pConcept": 0.72,
+    "version": "jev-1.14.0",
+    "tokens": 645
+  },
+  {
+    "id": 186,
+    "ms": 167.87516600000026,
+    "noul": 0.81,
+    "pConcept": 0.95,
+    "version": "jev-1.14.0",
+    "tokens": 490
+  },
+  {
+    "id": 187,
+    "ms": 165.93462500000032,
+    "noul": 0.76,
+    "pConcept": 0.86,
+    "version": "jev-1.14.0",
+    "tokens": 602
+  },
+  {
+    "id": 188,
+    "ms": 153.21029099999987,
+    "noul": 0.66,
+    "pConcept": 0.51,
+    "version": "jev-1.14.0",
+    "tokens": 532
+  },
+  {
+    "id": 189,
+    "ms": 147.835333,
+    "noul": 0.6,
+    "pConcept": 0.34,
+    "version": "jev-1.14.0",
+    "tokens": 449
+  },
+  {
+    "id": 190,
+    "ms": 136.07779200000004,
+    "noul": 0.62,
+    "pConcept": 0.38,
+    "version": "jev-1.14.0",
+    "tokens": 674
+  },
+  {
+    "id": 191,
+    "ms": 160.09395799999947,
+    "noul": 0.6,
+    "pConcept": 0.36,
+    "version": "jev-1.14.0",
+    "tokens": 449
+  },
+  {
+    "id": 192,
+    "ms": 134.7588340000002,
+    "noul": 0.73,
+    "pConcept": 0.62,
+    "version": "jev-1.14.0",
+    "tokens": 641
+  },
+  {
+    "id": 193,
+    "ms": 163.28204199999982,
+    "noul": 0.77,
+    "pConcept": 0.66,
+    "version": "jev-1.14.0",
+    "tokens": 531
+  },
+  {
+    "id": 194,
+    "ms": 135.2531659999995,
+    "noul": 0.67,
+    "pConcept": 0.66,
+    "version": "jev-1.14.0",
+    "tokens": 617
+  },
+  {
+    "id": 195,
+    "ms": 151.9873749999997,
+    "noul": 0.8,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 574
+  },
+  {
+    "id": 196,
+    "ms": 149.60904200000004,
+    "noul": 0.5,
+    "pConcept": 0.54,
+    "version": "jev-1.14.0",
+    "tokens": 620
+  },
+  {
+    "id": 197,
+    "ms": 141.10233300000073,
+    "noul": 0.7,
+    "pConcept": 0.6,
+    "version": "jev-1.14.0",
+    "tokens": 640
+  },
+  {
+    "id": 198,
+    "ms": 137.87016700000004,
+    "noul": 0.71,
+    "pConcept": 0.68,
+    "version": "jev-1.14.0",
+    "tokens": 653
+  },
+  {
+    "id": 199,
+    "ms": 157.58108300000004,
+    "noul": 0.58,
+    "pConcept": 0.44,
+    "version": "jev-1.14.0",
+    "tokens": 691
+  },
+  {
+    "id": 200,
+    "ms": 179.64337499999965,
+    "noul": 0.74,
+    "pConcept": 0.77,
+    "version": "jev-1.14.0",
+    "tokens": 633
+  },
+  {
+    "id": 201,
+    "ms": 164.84412500000053,
+    "noul": 0.59,
+    "pConcept": 0.64,
+    "version": "jev-1.14.0",
+    "tokens": 651
+  },
+  {
+    "id": 202,
+    "ms": 215.78579100000024,
+    "noul": 0.75,
+    "pConcept": 0.59,
+    "version": "jev-1.14.0",
+    "tokens": 524
+  },
+  {
+    "id": 203,
+    "ms": 202.8334160000004,
+    "noul": 0.74,
+    "pConcept": 0.74,
+    "version": "jev-1.14.0",
+    "tokens": 585
+  },
+  {
+    "id": 204,
+    "ms": 192.871083,
+    "noul": 0.57,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 598
+  },
+  {
+    "id": 205,
+    "ms": 148.99208400000043,
+    "noul": 0.73,
+    "pConcept": 0.65,
+    "version": "jev-1.14.0",
+    "tokens": 580
+  },
+  {
+    "id": 206,
+    "ms": 158.63687500000015,
+    "noul": 0.44,
+    "pConcept": 0.41,
+    "version": "jev-1.14.0",
+    "tokens": 654
+  }
+]

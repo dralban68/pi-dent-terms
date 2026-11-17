@@ -1,0 +1,42 @@
+items 205 groups 16 real 32
+cluster passage k=0.1n             calls   30.0  (15%) acc 0.923 recall 0.87
+random  passage k=0.1n             calls   30.0  (15%) acc 0.920 recall 0.75
+cluster passage k=0.2n             calls   46.0  (22%) acc 0.934 recall 0.84
+random  passage k=0.2n             calls   46.0  (22%) acc 0.933 recall 0.81
+cluster passage k=0.3n             calls   72.0  (35%) acc 0.956 recall 0.88
+random  passage k=0.3n             calls   72.0  (35%) acc 0.943 recall 0.82
+cluster passage k=0.5n             calls  104.0  (51%) acc 0.967 recall 0.94
+random  passage k=0.5n             calls  104.0  (51%) acc 0.957 recall 0.86
+cluster line k=0.1n                calls   30.0  (15%) acc 0.922 recall 0.85
+random  line k=0.1n                calls   30.0  (15%) acc 0.918 recall 0.80
+cluster line k=0.2n                calls   46.0  (22%) acc 0.925 recall 0.86
+random  line k=0.2n                calls   46.0  (22%) acc 0.929 recall 0.85
+cluster line k=0.3n                calls   72.0  (35%) acc 0.946 recall 0.91
+random  line k=0.3n                calls   72.0  (35%) acc 0.946 recall 0.88
+cluster line k=0.5n                calls  104.0  (51%) acc 0.959 recall 0.93
+random  line k=0.5n                calls  104.0  (51%) acc 0.958 recall 0.91
+cluster passage k=0.1n radius 0.4  calls   33.8  (16%) acc 0.925 recall 0.88
+cluster passage k=0.1n radius 0.5  calls   50.7  (25%) acc 0.939 recall 0.92
+cluster passage k=0.1n radius 0.6  calls   93.5  (46%) acc 0.963 recall 0.97
+cluster passage k=0.1n radius 0.7  calls  148.2  (72%) acc 0.987 recall 1.00
+meaning-similarity AUC global 0.49
+ within workspace-root|root                      n 14 real 9 AUC 0.93
+ within search|search                            n 12 real 1 AUC 0.00
+ within application-page|page                    n 13 real 9 AUC 0.69
+ within limit-window|quota                       n 14 real 2 AUC 0.54
+ within limit-window|limit                       n 14 real 11 AUC 0.86
+haiku per item (direct) 205 calls acc 0.990
+cluster k=1 (one call per pair)    calls   16.0   (8%) acc 0.927 recall 0.91
+--- mixed pairs only: 67 items
+cluster passage k=0.0001n          calls    5.0   (7%) acc 0.776 recall 0.91
+random  passage k=0.0001n          calls    5.0   (7%) acc 0.649 recall 0.61
+cluster passage k=0.2n             calls   15.0  (22%) acc 0.803 recall 0.86
+random  passage k=0.2n             calls   15.0  (22%) acc 0.784 recall 0.78
+cluster passage k=0.3n             calls   23.0  (34%) acc 0.865 recall 0.89
+random  passage k=0.3n             calls   23.0  (34%) acc 0.830 recall 0.83
+cluster passage k=0.5n             calls   34.0  (51%) acc 0.904 recall 0.94
+random  passage k=0.5n             calls   34.0  (51%) acc 0.870 recall 0.85
+cluster k=0.2n radius 0.4          calls   16.3  (24%) acc 0.808 recall 0.87
+cluster k=0.2n radius 0.5          calls   19.4  (29%) acc 0.827 recall 0.91
+cluster k=0.2n radius 0.6          calls   30.4  (45%) acc 0.897 recall 0.97
+cluster k=0.2n radius 0.7          calls   47.4  (71%) acc 0.952 recall 1.00

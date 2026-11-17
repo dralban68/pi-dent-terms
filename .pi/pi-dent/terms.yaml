@@ -1,0 +1,368 @@
+terms:
+  - id: after-edit-check
+    label: after-edit check
+    meaning: "The prose checks the extension runs on a document that the host's edit or write tool changed"
+    owner: specs/terms-tool.md
+    group: Tool and extension
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: change-set
+    label: change set
+    meaning: "The caller-supplied list of changed files, each with its text before the change, that describes how the workspace differs from its base"
+    owner: specs/terms.md
+    group: Checks
+    key: shared
+    status: active
+    reject:
+      - changeset
+    history:
+      - date: 2026-11-14
+        op: add
+  - id: changed-line
+    label: changed line
+    meaning: "A line of a changed file's current text that its line pairing with the text before the change leaves unpaired"
+    owner: specs/terms.md
+    group: Checks
+    key: shared
+    status: active
+    distinguish:
+      - change-set
+    history:
+      - date: 2026-11-14
+        op: add
+  - id: diagnostic
+    label: diagnostic
+    meaning: One message reported to the user about a configuration problem
+    owner: specs/terms-tool.md
+    group: Tool and extension
+    key: shared
+    status: active
+    distinguish:
+      - finding
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: distinguish-relation
+    label: distinguish relation
+    meaning: The pairing of two entries whose concepts a reader confuses
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    distinguish:
+      - reject-phrase
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: document
+    label: document
+    meaning: A Markdown file of the workspace that Git does not ignore
+    owner: specs/terms.md
+    group: Workspace
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: edit-list
+    label: edit list
+    meaning: The occurrences an operation returns for the agent to rewrite
+    owner: specs/terms.md
+    group: Operations
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: entry
+    label: entry
+    meaning: The record of one concept in the terms file
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    distinguish:
+      - label
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: file-check
+    label: file check
+    meaning: A check of the terms file and of its entries against the documents
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    reject:
+      - schema validation
+    distinguish:
+      - prose-check
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update
+  - id: finding
+    label: finding
+    meaning: "One reported problem of a check, with its place and code"
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    distinguish:
+      - diagnostic
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: form
+    label: form
+    meaning: An inflection of a label that the plural rules do not derive
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: introduced-finding
+    label: introduced finding
+    meaning: A finding of the workspace that the base workspace of a change set does not account for
+    owner: specs/terms.md
+    group: Checks
+    key: shared
+    status: active
+    distinguish:
+      - finding
+    history:
+      - date: 2026-11-14
+        op: add
+  - id: label
+    label: label
+    meaning: "The one preferred term for an entry's concept"
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    distinguish:
+      - entry
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: occurrence
+    label: occurrence
+    meaning: A place in prose where a phrase of an entry is found
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    distinguish:
+      - use
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: operation
+    label: operation
+    meaning: A recorded change to the terms file
+    owner: specs/terms.md
+    group: Operations
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: prose
+    label: prose
+    meaning: "The text of a document's headings, paragraphs, and table cells that the checks read"
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: prose-check
+    label: prose check
+    meaning: A check of the occurrences and suppression comments of one document
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    distinguish:
+      - file-check
+      - after-edit-check
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: reject-candidate
+    label: reject candidate
+    meaning: An item of an imported table that import leaves for the agent to classify
+    owner: specs/terms.md
+    group: Operations
+    key: shared
+    status: active
+    distinguish:
+      - reject-phrase
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: reject-phrase
+    label: reject phrase
+    meaning: A phrase an entry lists as never to be used for its concept
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    reject:
+      - avoid entry
+    distinguish:
+      - reject-candidate
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update
+  - id: replacement
+    label: replacement
+    meaning: An entry that replaces a deprecated entry
+    owner: specs/terms.md
+    group: Entries
+    key: shared
+    status: active
+    reject:
+      - successor
+    distinguish:
+      - suggested-text
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update
+  - id: suggested-text
+    label: suggested text
+    meaning: The text an edit list proposes in place of an occurrence
+    owner: specs/terms.md
+    group: Operations
+    key: shared
+    status: active
+    distinguish:
+      - replacement
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: suppression-comment
+    label: suppression comment
+    meaning: The HTML comment that keeps one finding code from one line of a document
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    reject:
+      - pragma
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update
+  - id: terms
+    label: Terms
+    meaning: "The tool through which a session looks entries up, checks its workspace, and runs operations"
+    owner: specs/terms-tool.md
+    group: Tool and extension
+    key: shared
+    status: active
+    distinguish:
+      - terms-file
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: terms-file
+    label: terms file
+    meaning: "The YAML file holding a workspace's entries and file-level settings"
+    owner: specs/terms.md
+    group: Workspace
+    key: shared
+    status: active
+    reject:
+      - glossary
+    distinguish:
+      - terms
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update
+  - id: use
+    label: use
+    meaning: "A document's holding an occurrence of an active entry's label or form"
+    owner: specs/terms.md
+    group: Prose and checks
+    key: shared
+    status: active
+    distinguish:
+      - occurrence
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: workspace
+    label: workspace
+    meaning: The Git working tree whose documents and terms file the checks read
+    owner: specs/terms.md
+    group: Workspace
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: workspace-path
+    label: workspace path
+    meaning: The string naming a file of the workspace relative to its workspace root
+    owner: specs/terms.md
+    group: Workspace
+    key: shared
+    status: active
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+  - id: workspace-root
+    label: workspace root
+    meaning: The top directory of the Git working tree a session works in
+    owner: specs/terms.md
+    group: Workspace
+    key: shared
+    status: active
+    reject:
+      - repository root
+      - project root
+    history:
+      - date: 2026-11-14
+        op: import
+        from: specs/thesaurus.md
+      - date: 2026-11-14
+        op: update

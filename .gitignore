@@ -1,0 +1,5 @@
+node_modules/
+.pi/*
+!.pi/pi-dent/
+.pi/pi-dent/*
+!.pi/pi-dent/terms.yaml
