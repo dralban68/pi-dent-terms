@@ -35,9 +35,24 @@ jobs:
         run: |
           name=$(node -p 'require("./package.json").name')
           version=$(node -p 'require("./package.json").version')
-          if [ "$(npm view "$name@$version" version 2>/dev/null)" = "$version" ]; then
+          if [ "$(npm view "$name@$version" version --prefer-online 2>/dev/null)" = "$version" ]; then
             echo "$name@$version is already on npm; bump the version to publish"
             exit 0
           fi
           tarball=$(pnpm pack --pack-destination "$RUNNER_TEMP" | tail -1)
-          npm publish "$tarball" --access public
+          # A version staged or published since the check above (a concurrent run, an approved
+          # staged publish) is not a failure of this run.
+          if out=$(npm publish "$tarball" --access public 2>&1); then
+            echo "$out"
+            exit 0
+          fi
+          echo "$out"
+          if grep -q 'previously staged version' <<<"$out"; then
+            echo "::warning::$name@$version is staged on npm and waits for approval: npm stage list $name"
+            exit 0
+          fi
+          if grep -q 'cannot publish over the previously published versions' <<<"$out"; then
+            echo "$name@$version is already on npm"
+            exit 0
+          fi
+          exit 1
